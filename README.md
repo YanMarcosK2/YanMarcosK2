@@ -1,4 +1,4 @@
-## olá,bem vindo. Me chama Yan 😄🌳
+## olá,bem vindo. Me chama de Yan 😄🌳
 
 Oiê, Sou o Yan.
 Estou começando na linguagem de programação JavaScript
